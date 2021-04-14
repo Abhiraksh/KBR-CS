@@ -1,1 +1,2 @@
-# KBR-CS
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
